@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panduxcv
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently woriking as a software Engineer @ hSenid Mobiles
+- 👀 I’m interested in Fullstack Development in MEAN Stact, Flutter and IONIC 
+- 🌱 I’m currently woriking as a software Engineer
 - 💞️ I’m looking to collaborate on Open source Projects
 - 📫 How to reach me drop me mail to pandula95@gmail.com
 
