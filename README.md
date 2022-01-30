@@ -60,6 +60,4 @@ Interested Working Domain: JavaScript and TypeScript based Web Development or Mo
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=p4nduxcv&show_icons=true)
 
-### :zap: Recent Post on Medium
-<a target="_blank" href="https://panduxcv.medium.com/rpe-in-cycling-training-105d9add6ebb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@p4nduxcv/0" alt="Recent Article 0"></a>
 
