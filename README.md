@@ -19,7 +19,7 @@
 
 ## Hi, I'm Pandula Dananjaya Mandawala 👋
 
-I am a developer who is passionate about stuffs on javascript based web development. Few techs that I enjoy working in are NodeJS, Angular, React and interested on AWS cloud platform. I would like to hear from colleagues who have the same interests with my technology stack.
+I am a developer who is passionate about stuffs on javascript based development. Few techs that I enjoy working in are NodeJS, Angular, React and interested on AWS cloud platform. I would like to hear from colleagues who have the same interests with my technology stack.
 
 Interested Working Domain: JavaScript and TypeScript based Web Development or Mobile Developments
 
